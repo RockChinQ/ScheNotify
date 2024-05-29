@@ -1,4 +1,4 @@
-# HelloPlugin
+# ScheNotify
 
 <!--
 ## 插件开发者详阅
@@ -38,5 +38,10 @@
 或查看详细的[插件安装说明](https://github.com/RockChinQ/QChatGPT/wiki/5-%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8)
 
 ## 使用
+
+at机器人并说你要计划的时间和要提醒的消息。
+
+- !sche 列出所有计划的提醒
+- !dsche <id> 删除某个提醒
 
 <!-- 插件开发者自行填写插件使用说明 -->
